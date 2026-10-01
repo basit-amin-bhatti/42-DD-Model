@@ -1,0 +1,138 @@
+{
+  "license": "CC0",
+  "provider": "Poly Haven",
+  "assets": [
+    {
+      "id": "wood_floor",
+      "name": "Wood Floor",
+      "source": "https://polyhaven.com/a/wood_floor",
+      "maps": {
+        "diff": {
+          "file": "wood_floor-diff.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/wood_floor/wood_floor_diff_1k.jpg",
+          "bytes": 734493,
+          "md5": "b7e927d2bf2f8f103820ff3890c8407c"
+        },
+        "rough": {
+          "file": "wood_floor-rough.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/wood_floor/wood_floor_rough_1k.jpg",
+          "bytes": 527754,
+          "md5": "36146634f1dbd1bc30cd071857584c10"
+        },
+        "nor_gl": {
+          "file": "wood_floor-nor_gl.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/wood_floor/wood_floor_nor_gl_1k.jpg",
+          "bytes": 423303,
+          "md5": "620f174d2c09b579c5d02d37b2106668"
+        }
+      }
+    },
+    {
+      "id": "marble_01",
+      "name": "Marble 01",
+      "source": "https://polyhaven.com/a/marble_01",
+      "maps": {
+        "diff": {
+          "file": "marble_01-diff.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/marble_01/marble_01_diff_1k.jpg",
+          "bytes": 305029,
+          "md5": "04325ced5018eb8a2e598a4ef69cb176"
+        },
+        "rough": {
+          "file": "marble_01-rough.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/marble_01/marble_01_rough_1k.jpg",
+          "bytes": 91848,
+          "md5": "59cef1be1b7376c9d0dcc7a64adf7882"
+        },
+        "nor_gl": {
+          "file": "marble_01-nor_gl.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/marble_01/marble_01_nor_gl_1k.jpg",
+          "bytes": 110230,
+          "md5": "fa073d722cde733c1bd6cc6e8897c8e3"
+        }
+      }
+    },
+    {
+      "id": "fabric_pattern_07",
+      "name": "Fabric Pattern 07",
+      "source": "https://polyhaven.com/a/fabric_pattern_07",
+      "maps": {
+        "diff": {
+          "file": "fabric_pattern_07-diff.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/fabric_pattern_07/fabric_pattern_07_col_1_1k.jpg",
+          "bytes": 788593,
+          "md5": "c82406b5ac4086b14db6b3ad9c84946f"
+        },
+        "rough": {
+          "file": "fabric_pattern_07-rough.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/fabric_pattern_07/fabric_pattern_07_rough_1k.jpg",
+          "bytes": 488744,
+          "md5": "28f47eb9de3e4ebe1dc519f601335fc4"
+        },
+        "nor_gl": {
+          "file": "fabric_pattern_07-nor_gl.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/fabric_pattern_07/fabric_pattern_07_nor_gl_1k.jpg",
+          "bytes": 828071,
+          "md5": "cdbbc2ebe5d75f6edd66ba090f3be49f"
+        }
+      }
+    },
+    {
+      "id": "plastered_wall_02",
+      "name": "Plastered Wall 02",
+      "source": "https://polyhaven.com/a/plastered_wall_02",
+      "maps": {
+        "diff": {
+          "file": "plastered_wall_02-diff.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/plastered_wall_02/plastered_wall_02_diff_1k.jpg",
+          "bytes": 436395,
+          "md5": "3ca0d02e87ad5c6eb21efa4b05b7748e"
+        },
+        "rough": {
+          "file": "plastered_wall_02-rough.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/plastered_wall_02/plastered_wall_02_rough_1k.jpg",
+          "bytes": 173930,
+          "md5": "2d4a4a40491eb5a115c086bb65aba32c"
+        },
+        "nor_gl": {
+          "file": "plastered_wall_02-nor_gl.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/plastered_wall_02/plastered_wall_02_nor_gl_1k.jpg",
+          "bytes": 960241,
+          "md5": "5419137dd937f95a849b884258fb8bb5"
+        }
+      }
+    },
+    {
+      "id": "aerial_grass_rock",
+      "name": "Aerial Grass Rock",
+      "source": "https://polyhaven.com/a/aerial_grass_rock",
+      "maps": {
+        "diff": {
+          "file": "aerial_grass_rock-diff.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/aerial_grass_rock/aerial_grass_rock_diff_1k.jpg",
+          "bytes": 666655,
+          "md5": "e920ce36afd0abff000b8366d3d768d3"
+        },
+        "rough": {
+          "file": "aerial_grass_rock-rough.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/aerial_grass_rock/aerial_grass_rock_rough_1k.jpg",
+          "bytes": 362214,
+          "md5": "f78c5cdc565f990299ae7c5a81f68cf7"
+        },
+        "nor_gl": {
+          "file": "aerial_grass_rock-nor_gl.jpg",
+          "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/aerial_grass_rock/aerial_grass_rock_nor_gl_1k.jpg",
+          "bytes": 904956,
+          "md5": "c8aa4c4f09b113cc7edef89ddeaccad9"
+        }
+      }
+    }
+  ],
+  "environment": {
+    "source": "https://polyhaven.com/a/modern_buildings_2",
+    "file": "daylight-2k.hdr",
+    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/modern_buildings_2_2k.hdr",
+    "bytes": 6511587,
+    "md5": "e8a67f0a03787ab178ec1c55643c658e"
+  }
+}
